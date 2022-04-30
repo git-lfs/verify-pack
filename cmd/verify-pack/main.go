@@ -1,6 +1,6 @@
 package main
 
-import (
+import (verify-pack/cmd/verify-pack/main.go
 	"bufio"
 	"encoding/hex"
 	"fmt"
